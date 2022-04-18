@@ -1,0 +1,8 @@
+flask
+Flask-SQLAlchemy
+flask-migrate
+psycopg2-binary
+python-dotenv
+cryptography==36.0.1
+PyJWT==1.7.1
+flask-bcrypt
